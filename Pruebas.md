@@ -29,36 +29,23 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 ---
 
-### Paso 2: [Nombre o resumen del segundo paso]
+### Paso 2: [Nuevo componente]
 
-**Descripción / Explicación:**
-Explicación detallada de la acción realizada en el paso 2.
+<div align="center">
 
-**Evidencia Visual:**
-![Descripción o estado en el Paso 2](ruta_o_url_de_la_imagen_2.png)
-*Figura 2: Explicación de la evidencia o resultado de este paso.*
+![Diagrama](./Imagenes/1A_Lista_previa.png)
 
----
-
-### Paso 3: [Nombre o resumen del tercer paso]
-
-**Descripción / Explicación:**
-Explicación detallada de la acción realizada en el paso 3.
-
-**Evidencia Visual:**
-![Descripción o estado en el Paso 3](ruta_o_url_de_la_imagen_3.png)
-*Figura 3: Explicación de la evidencia o resultado de este paso.*
+</div>
 
 ---
 
-*(Puedes duplicar el bloque del Paso N para agregar todos los pasos que necesites)*
+### Paso 3: [Codigo horas de uso]
 
----
+<div align="center">
 
-## ✅ Lista de Verificación Final (Checklist)
-Valida que el resultado sea el correcto confirmando los siguientes puntos:
-- [ ] Resultado esperado 1 comprobado.
-- [ ] Resultado esperado 2 comprobado.
+![Diagrama](./Imagenes/1A_Lista_previa.png)
+
+</div>
 
 ---
 
