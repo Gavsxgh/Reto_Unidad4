@@ -2,6 +2,6 @@
 
 <div align="center">
 
-![Caso 1](./Imagenes/Diagrama1.png)
+![Diagrama](./Imagenes/R4.png)
 
 </div>
