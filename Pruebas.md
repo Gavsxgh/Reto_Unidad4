@@ -21,12 +21,11 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 ### Paso 1: [Nueva aeronave]
 
-**Descripción / Explicación:**
-Escribe aquí detalladamente lo que debe hacerse en este paso. Puedes incluir comandos, rutas, parámetros o cualquier indicación relevante.
+<div align="center">
 
-**Evidencia Visual:**
-![Descripción o estado en el Paso 1](ruta_o_url_de_la_imagen_1.png)
-*Figura 1: Explicación de lo que se observa en la imagen.*
+![Diagrama](./Imagenes/1A_Lista_previa.png)
+
+</div>
 
 ---
 
