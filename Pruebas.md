@@ -1,22 +1,25 @@
-# [Funcionamiento del codigo step by step / Guía Paso a Paso]
+# [ Funcionamiendo de funciones bases del codigo/ step by step
 
-> **Descripción breve:** Resumen general de lo que se logrará al completar esta guía.  
-> **Fecha:** DD/MM/AAAA  
-> **Autor / Responsable:** [Tu Nombre / Equipo]  
+> Demostrar las funciones basicas del codigo 
+> **Fecha:** 08/10/2026  
+> **Autores:**  [ Alejandro Arcila Rua / Gabriela Galindo Herrera]  
 
 ---
 
-## 📋 Prerrequisitos / Requerimientos Previos
+## 📋 Requisitos
 Antes de iniciar, asegúrate de contar con lo siguiente:
-- [ ] Requisito 1 (ej. software instalado, acceso a una herramienta, etc.)
-- [ ] Requisito 2
-- [ ] Requisito 3
+- [ ] **Requisito 1:** Registro de nueva aeronave
+- [ ] **Requisito 2:** Registro de componente a nueva aeronave
+- [ ] **Requisito 3:** Parte del codigo (Agregar horas de uso)
+- [ ] **Requisito 4:** Reporte de mantenimiento
+- [ ] **Requisito 5:** Reiniciar horas de uso de un coponente
+- [ ] **Requisito 6:** Autoevaluacion
 
 ---
 
-## 🚀 Guía Paso a Paso
+## 🚀 Step by step
 
-### Paso 1: [Nombre o resumen del primer paso]
+### Paso 1: [Nueva aeronave]
 
 **Descripción / Explicación:**
 Escribe aquí detalladamente lo que debe hacerse en este paso. Puedes incluir comandos, rutas, parámetros o cualquier indicación relevante.
