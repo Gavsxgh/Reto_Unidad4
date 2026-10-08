@@ -49,6 +49,38 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 ---
 
+### Paso 4: [Reporte de horas de uso]
+
+<div align="center">
+
+![Diagrama](./Imagenes/1A_Lista_previa.png)
+
+</div>
+
+---
+
+### Paso 5: [Mantenimiento componente]
+
+<div align="center">
+
+![Diagrama](./Imagenes/1A_Lista_previa.png)
+
+</div>
+
+---
+
+### Paso 6: [Autoevaluacion]
+
+| Autoevaluación | Integrante | Notaa |
+| :--- | :--- | :--- |
+| - | Alejandro Arcila Rua | 5.0 |
+| - | Gabriela Galindo Herrera | 5.0 | 
+
+
+
+
+
+---
 ## ⚠️ Solución de Problemas Comunes (Troubleshooting)
 | Problema / Error | Causa Posible | Solución Sugerida |
 | :--- | :--- | :--- |
