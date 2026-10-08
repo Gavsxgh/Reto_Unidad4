@@ -23,7 +23,21 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 <div align="center">
 
+### 1.1 Lista previa, contiene tres aeronaves y 5 componentes para cada una preestablecidas:
+  
 ![Diagrama](./Imagenes/1A_Lista_previa.png)
+
+### 1.2 Proceso de creacion de la aeronave
+
+![Diagrama](./Imagenes/1B_Creacion_aeronave.png)
+
+### 1.3 (Paso2) Creacion del componente
+
+![Diagrama](./Imagenes/1C_Creacion_componente.png)
+
+### 1.4 Verificacion de modificaciones exitosas
+
+![Diagrama](./Imagenes/1D_Verificacion.png)
 
 </div>
 
@@ -32,8 +46,8 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 ### Paso 2: [Nuevo componente]
 
 <div align="center">
-
-![Diagrama](./Imagenes/1A_Lista_previa.png)
+  
+![Diagrama](./Imagenes/1B_Creacion_aeronave.png)
 
 </div>
 
@@ -43,9 +57,13 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 <div align="center">
 
-![Diagrama](./Imagenes/1A_Lista_previa.png)
+![Diagrama](./Imagenes/3A_lineas_de_adicion_de_horas_de_uso.png)
 
 </div>
+
+- La opcion 3 del menu evalua antes de que puedas introducir las horas de vuelo, si el avion esta en estado habilitado para vuelo (NO en estado "en tierra") derivado de algun componente que exceda las horas limite.
+
+- En este segmento de codigo se empleo tanto for como if junto con valores booleanos para evaluar los estados pertinentes del aeronave
 
 ---
 
@@ -53,9 +71,26 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 <div align="center">
 
-![Diagrama](./Imagenes/1A_Lista_previa.png)
+### Reporte sin alerta
+
+![Diagrama](./Imagenes/4A_Reporte_sin_alerta.png)
 
 </div>
+
+<div align="center">
+
+  ### Adicion de horas de uso/vuelo
+  
+![Diagrama](./Imagenes/4B_Adicion_horas_de_vuelo.png)
+
+</div>
+
+<div align="center">
+
+![Diagrama](./Imagenes/4C_reporte_de_mantenimiento_con_alerta.png)
+
+</div>
+
 
 ---
 
