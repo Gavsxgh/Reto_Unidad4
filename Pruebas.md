@@ -87,6 +87,8 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 <div align="center">
 
+ ### Reporte de numero de horas exedido, solicitud de mantenimiento
+
 ![Diagrama](./Imagenes/4C_reporte_de_mantenimiento_con_alerta.png)
 
 </div>
@@ -98,31 +100,35 @@ Antes de iniciar, asegúrate de contar con lo siguiente:
 
 <div align="center">
 
-![Diagrama](./Imagenes/1A_Lista_previa.png)
+### Forma de realizar mantenimiento de un componente
+![Diagrama](./Imagenes/5A_Mantenimiento_de_componente_en_aeronave_con_un_solo_componente.png)
 
 </div>
+
+<div align="center">
+
+### Alarma de componente vencido
+
+![Diagrama](./Imagenes/5B_Mantenimiento_del_componente_que_salto_la_alerta.png)
+
+</div>
+
+<div align="center">
+
+### Revision de estado final de todos los componentes
+
+![Diagrama](./Imagenes/5C_Estado_de_los_componentes_posterior_al_cambio.png)
+
+</div>
+
 
 ---
 
 ### Paso 6: [Autoevaluacion]
 
-| Autoevaluación | Integrante | Notaa |
+| Autoevaluación | Integrante | Nota |
 | :--- | :--- | :--- |
 | - | Alejandro Arcila Rua | 5.0 |
 | - | Gabriela Galindo Herrera | 5.0 | 
 
-
-
-
-
 ---
-## ⚠️ Solución de Problemas Comunes (Troubleshooting)
-| Problema / Error | Causa Posible | Solución Sugerida |
-| :--- | :--- | :--- |
-| Error X | Falta de permisos | Ejecutar como administrador |
-| Error Y | Ruta incorrecta | Verificar la dirección del directorio |
-
----
-
-## 📌 Notas Adicionales
-- Agrega aquí cualquier observación extra o buenas prácticas a considerar.
